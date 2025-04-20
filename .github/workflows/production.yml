@@ -48,4 +48,5 @@ jobs:
         with:
           push: true
           tags: Fernandezl0911/devops_demo:latest
+          
           # Add other relevant build parameters here
